@@ -6,3 +6,4 @@
 * [Reading 03](read-03.md)
 * [Reading 04](read-04.md)
 * [Reading 05](read-05.md)
+* [Reading 06](read-06.md)
