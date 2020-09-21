@@ -7,4 +7,4 @@
 * [Reading 04](read-04.md)
 * [Reading 05](read-05.md)
 * [Reading 06](read-06.md)
- [Reading 08](read-08.md)
+* [Reading 08](read-08.md)
