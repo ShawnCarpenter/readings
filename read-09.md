@@ -4,4 +4,5 @@ Express routing is how the endpoints in an express app respond to client request
 
 Supertest allows you to test your http functions. 
 
-Express middleware
+Express middleware is what we have been writing without knowing it. 
+Express has middleware modules that are maintained by the team and there are also third-party middleware packages that can be used.
