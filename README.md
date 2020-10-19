@@ -12,3 +12,4 @@
 * [Reading 10](read-10.md)
 * [Reading 12](read-12.md)
 * [Reading 13](read-13.md)
+* [Reading 26](read-26.md)
